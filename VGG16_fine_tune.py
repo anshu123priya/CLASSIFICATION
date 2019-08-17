@@ -103,7 +103,7 @@ def get_input():
 	X=[]
 	label=[]
 	path1="no_aug"
-	path2="preset_aug"
+	path2="pathological_aug"
 	path3="high_aug"
 	list1=os.listdir(path1)
 	list2=os.listdir(path2)
